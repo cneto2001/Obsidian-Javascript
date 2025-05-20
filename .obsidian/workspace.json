@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Javascript Intro.md",
+                "file": "Optimal HackerRank Solutions/Camel Case 4.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Javascript Intro"
+              "title": "Camel Case 4"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Javascript Intro.md",
+                "file": "Optimal HackerRank Solutions/Camel Case 4.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Javascript Intro"
+              "title": "Outline of Camel Case 4"
             }
           }
         ],
@@ -171,6 +171,7 @@
   },
   "active": "566dcbe522880a4d",
   "lastOpenFiles": [
+    "Javascript Intro.md",
     "Optimal HackerRank Solutions/Camel Case 4.md",
     "Optimal HackerRank Solutions/MiniMaxSum.md",
     "Optimal HackerRank Solutions",
@@ -179,7 +180,6 @@
     "Conceitos Mais Avançados + Prática.md",
     "Expressions & Operators.md",
     "Functions.md",
-    "Javascript Intro.md",
     "Logical Operators.md",
     "Operator Precedence.md",
     "Variables.md",
